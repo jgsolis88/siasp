@@ -1,0 +1,1 @@
+const _={page_size:10,page:1,total:0,total_pages:1,previous_page:1,next_page:1},a=8,A=3,l=A+1,T={data:[],pagination:_,loading:!1},o=(s={},e=1,t=0)=>(s.total=t,s.total_pages=Math.ceil(t/s.page_size),s.page=e,s.previous_page=e>1?e-1:1,s.next_page=e<s.total_pages?e+1:s.total_pages,s);export{T as C,a as P,l as a,A as b,o as p};
