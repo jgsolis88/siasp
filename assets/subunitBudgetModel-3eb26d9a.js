@@ -1,0 +1,1 @@
+const i={clave:"",unidad_ejecutora:0,id_funcion:0,id_subfuncion:0,programa_sectorial:0,programa_especial:0,proyecto:"",tipo_gasto:0,gasto_especifico:0,fuente_financiamiento:0,subfuncion_agrupada:0,subfuncion_especifica:0,programa:0,id_grupo_proyecto:0,id_grupo_funcional:0,id_actividad_institucional:0,actividad_prioritaria:""};export{i as d};
